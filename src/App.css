@@ -1,0 +1,26 @@
+.mapDiv {
+  width: 100vw;
+  height: 100vh;
+}
+
+button {
+  padding: 8px 16px;
+  background: red;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.clearButton {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+
+.routeButton {
+  position: absolute;
+  top: 10px;
+  left: 85px;
+  z-index: 10;
+}
